@@ -1,2 +1,2 @@
 # Campus-LSF-Portal
-Diese Webseite dient als zentrale Anlaufstelle für Studierende, um wichtige Informationen und Dokumente rund um ihre Prüfungen zu verwalten. Die Webseite ist benutzerfreundlich gestaltet und bietet Studierenden alle notwendigen Ressourcen, um ihre akademischen Angelegenheiten effizient zu verwalten.
+Ein Campus-LSF-Portal ist ein Prototyp, der mit Miro-Borad und WIX erstellt wurde. Diese Webseite dient als zentrale Anlaufstelle für Studierende, um wichtige Informationen und Dokumente rund um ihre Prüfungen zu verwalten. Die Webseite ist benutzerfreundlich gestaltet und bietet Studierenden alle notwendigen Ressourcen, um ihre akademischen Angelegenheiten effizient zu verwalten.
